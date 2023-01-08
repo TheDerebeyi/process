@@ -9,7 +9,7 @@ public class Program {
 	public static void main(String[] args) {
 		
 		if(args.length == 0) {
-			System.out.println("Parametre hatasý.");
+			System.out.println("Parametre hatasý. Bu proses uygulamasýdýr, ana program için Grup12.jar'ý çalýþtýrýn.");
 			System.exit(0);
 		}
 
